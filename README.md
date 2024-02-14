@@ -38,7 +38,7 @@ All components and functions are commented to explain their purpose and usage.
 5. pages: Contains React components for different pages (Home, Add, Edit, etc.).
 6. mocks: Contains mock data for books and authors.
 7. App.jsx: Main application component.
-8. mainjsx: Entry point for the React application.
+8. main.jsx: Entry point for the React application.
 
 ## Dependencies
 
