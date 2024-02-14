@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Thomas H. Cormen",
+    "birthDate": "1912-06-23",
+    "biography": "Alan Turing was a British mathematician and logician who made significant contributions to the development of theoretical computer science."
+  }
+  ,
+  {
+    "id": 2,
+    "name": "Robert C. Martin",
+    "birthDate": "1906-12-09",
+    "biography": "Grace Hopper was an American computer scientist and United States Navy rear admiral. She was a pioneer in developing computer technology, helping to create UNIVAC I, the first commercial electronic computer, and inventing one of the first compiler related tools."
+  },
+  {
+    "id": 3,
+    "name": "Erich Gamma",
+    "birthDate": "1815-12-10",
+    "biography": "Ada Lovelace was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She is often regarded as the first computer programmer."
+  }
+  
+  
+]
