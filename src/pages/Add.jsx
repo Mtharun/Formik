@@ -16,8 +16,8 @@ const validate = values => {
   }
   if (!values.isbn) {
     errors.isbn = 'Required';
-  } else if (String(values.isbn).length !== 10) {
-    errors.isbn = 'Must be 10 characters';
+  } else if (String(values.isbn).length !== 13) {
+    errors.isbn = 'Must be 13 characters';
   }
   if (!values.date) {
     errors.date = 'Required';
